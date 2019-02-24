@@ -7,7 +7,7 @@ var app=express();
 require('./config/middleware.js')(app,express);
 require('./config/routes.js')(app,express);
 
-var mongoURI = "mongodb://Fatima:1234@ds157342.mlab.com:57342/prep" || 'mongodb://localhost/prep';
+var mongoURI = "mongodb://RBK:Thaki2018@ds157342.mlab.com:57342/prep" || 'mongodb://localhost/prep';
 
 mongoose.connect(mongoURI);
 
