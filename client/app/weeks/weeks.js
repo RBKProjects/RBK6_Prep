@@ -51,9 +51,9 @@ angular.module('prep.weeks',[])
 			$scope.Solutions.push('Iteration with the while loop');
 			$scope.Solutions.push('Introduction to Arrays');
 			$scope.Solutions.push('Array Iteration with while & for');
-			// $scope.Solutions.push('Introduction to Objects');
-			// $scope.Solutions.push('Data Modeling');
-			// $scope.Solutions.push('Introduction to Higher Order Functions');
+			$scope.Solutions.push('Introduction to Objects');
+			$scope.Solutions.push('Data Modeling');
+			$scope.Solutions.push('Introduction to Higher Order Functions');
 			// $scope.Solutions.push('Improved each: Passing Element Indices');
 			// $scope.Solutions.push('Improved each: Iterating Over Objects');
 			// $scope.Solutions.push('Map');
