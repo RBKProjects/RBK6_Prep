@@ -54,8 +54,8 @@ angular.module('prep.weeks',[])
 			$scope.Solutions.push('Introduction to Objects');
 			$scope.Solutions.push('Data Modeling');
 			$scope.Solutions.push('Introduction to Higher Order Functions');
-			// $scope.Solutions.push('Improved each: Passing Element Indices');
-			// $scope.Solutions.push('Improved each: Iterating Over Objects');
+			$scope.Solutions.push('Improved each: Passing Element Indices');
+			$scope.Solutions.push('Improved each: Iterating Over Objects');
 			// $scope.Solutions.push('Map');
 			// $scope.Solutions.push('Improved Map');
 			// $scope.Solutions.push('Filter');
