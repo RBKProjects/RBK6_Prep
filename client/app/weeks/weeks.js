@@ -56,9 +56,9 @@ angular.module('prep.weeks',[])
 			$scope.Solutions.push('Introduction to Higher Order Functions');
 			$scope.Solutions.push('Improved each: Passing Element Indices');
 			$scope.Solutions.push('Improved each: Iterating Over Objects');
-			// $scope.Solutions.push('Map');
-			// $scope.Solutions.push('Improved Map');
-			// $scope.Solutions.push('Filter');
+			$scope.Solutions.push('Map');
+			$scope.Solutions.push('Improved Map');
+			$scope.Solutions.push('Filter');
 			// $scope.Solutions.push('Reduce');
 			// $scope.Solutions.push('Improved Reduce');
 			// $scope.Solutions.push('Introduction to Closures');
